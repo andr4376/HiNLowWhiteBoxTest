@@ -1,0 +1,7 @@
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\bin\Debug\HiNLowWhiteBoxTest1.exe.config
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\bin\Debug\HiNLowWhiteBoxTest1.exe
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\bin\Debug\HiNLowWhiteBoxTest1.pdb
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.csprojResolveAssemblyReference.cache
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.exe
+C:\Users\Andr4\source\repos\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.pdb
