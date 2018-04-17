@@ -12,3 +12,10 @@ C:\Users\Andr4\Desktop\Git Projects\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLo
 C:\Users\Andr4\Desktop\Git Projects\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.csproj.CoreCompileInputs.cache
 C:\Users\Andr4\Desktop\Git Projects\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.exe
 C:\Users\Andr4\Desktop\Git Projects\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.pdb
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\bin\Debug\HiNLowWhiteBoxTest1.exe.config
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\bin\Debug\HiNLowWhiteBoxTest1.exe
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\bin\Debug\HiNLowWhiteBoxTest1.pdb
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.csprojResolveAssemblyReference.cache
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.exe
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\HiNLowWhiteBoxTest1\obj\Debug\HiNLowWhiteBoxTest1.pdb

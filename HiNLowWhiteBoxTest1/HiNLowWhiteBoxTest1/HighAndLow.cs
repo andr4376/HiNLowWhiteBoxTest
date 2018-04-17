@@ -206,21 +206,29 @@ namespace HiNLowWhiteBoxTest1
             Console.SetCursorPosition(20, 15);
             Console.WriteLine("Incorrect:  " + (HighAndLow.Instance.inCorrectCount / HighAndLow.Instance.totalCounts * 100) + "%");
 
-            Console.SetCursorPosition(0, 2);
-            if (correct == true)
-            {
-                Console.WriteLine("CORRECT");
-            }
-            if (correct == false)
-            {
-                Console.WriteLine("FALSE");
-
-            }
+            Console.SetCursorPosition(0, 3);
+            Console.Write(GetResult());
             Console.SetCursorPosition(0, 15);
 
 
 
         }
+
+        private string GetResult()
+        {
+            string result = "error";
+            if (correct == true)
+            {
+                result = "CORRECT!";
+            }
+            if (correct == false)
+            {
+                result = "FALSE!";
+
+            }
+            return result;
+        }
+
         public void Reset()
         {
             if (correct == false)

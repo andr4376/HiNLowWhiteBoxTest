@@ -10,7 +10,7 @@ namespace HiNLowWhiteBoxTest1
     {
         static void Main(string[] args)
         {
-           // HighAndLow.Instance.Roll();
+            Console.SetWindowSize(42, 17);
            
 
 
