@@ -8,9 +8,20 @@ namespace UnitTestProject
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ReturnSumOf1plus2()
         {
-            
+            int result;
+            result = HighAndLow.Instance.GetSum(HighAndLow.Instance.RollDice(new int[] { 1, 2 }));
+
+            Assert.AreEqual(3, result);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void TestIfDiceIsHigherThan6()
+        {
+            HighAndLow.Instance.GetSum(HighAndLow.Instance.RollDice(new int[] { 7, 7 }));
+
         }
     }
 }

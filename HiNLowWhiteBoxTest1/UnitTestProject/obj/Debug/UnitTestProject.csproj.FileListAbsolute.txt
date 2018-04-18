@@ -1,0 +1,16 @@
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\HiNLowWhiteBoxTest1.exe
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\HiNLowWhiteBoxTest1.pdb
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\HiNLowWhiteBoxTest1.exe.config
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Andr4\Desktop\HiNLowWhiteBoxTest\HiNLowWhiteBoxTest1\UnitTestProject\obj\Debug\UnitTestProject.pdb

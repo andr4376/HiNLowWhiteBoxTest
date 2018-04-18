@@ -28,7 +28,7 @@ namespace HiNLowWhiteBoxTest1
 
         private int lastSum;
 
-        private int diceAmount = 2;
+       
 
         #region Counters;
         public float count2 = 0;
@@ -48,6 +48,7 @@ namespace HiNLowWhiteBoxTest1
         public float correcCount = 0;
         public float inCorrectCount = 0;
         #endregion
+
         private bool correct;
 
         public bool Correct
@@ -72,13 +73,24 @@ namespace HiNLowWhiteBoxTest1
             get { return lastSum; }
         }
 
-        public int[] RollDice()
+        public int[] RollDice(int[] values)
         {
-            int[] dices = new int[diceAmount];
-            for (int i = 0; i < diceAmount; i++)
+            int[] dices = new int[values.Length];
+
+            for (int i = 0; i < values.Length; i++)
             {
-                int x = rng.Next(1, 7);
+                if (values[i]>6)
+                {
+                    throw new Exception("HACKER SCUM");
+                }
+            }
+
+            for (int i = 0; i < values.Length; i++)
+            {
+                int x = values[i];
+
                 dices[i] = x;
+
                 Console.Write(x + " ");
             }
             return dices;
@@ -141,7 +153,7 @@ namespace HiNLowWhiteBoxTest1
             }
             else
             {
-                x = GetSum(RollDice());
+                x = GetSum(RollDice(new int[] {rng.Next(1,7),rng.Next(1,7)}));
             }
             return x;
         }
@@ -150,7 +162,7 @@ namespace HiNLowWhiteBoxTest1
         {
             lastSum = sum;
 
-            int value = GetSum(RollDice());
+            int value = GetSum(RollDice(new int[] { rng.Next(1, 7), rng.Next(1, 7) }));
 
             if (value > lastSum && higher == true)
             {
